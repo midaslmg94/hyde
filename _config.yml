@@ -2,10 +2,6 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
 title:            mingi's blog
 tagline:          'A Jekyll theme'
