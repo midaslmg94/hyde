@@ -4,8 +4,6 @@ highlighter:      pygments
 
 # Setup
 title:            mingi's blog
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://midaslmg94.github.io/
 baseurl:          ""
 
@@ -18,4 +16,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/midaslmg94/midaslmg94.github.io
